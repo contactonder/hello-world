@@ -1,2 +1,3 @@
 # hello-world
-Just another repository after cvs, svn, tfs 
+This is a hello world repo to explore git and github
+I like coding in C++ and C#
